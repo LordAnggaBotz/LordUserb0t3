@@ -1,12 +1,13 @@
 {
     "self_mode": true,
-    "anti_delete": false,
+    "anti_delete": true
+,
     "anti_call": true,
     "autorespon": true,
     "user_register": true,
 	"prefix": ".",
 	"ownerNumber": "62887435047326",
-	"ownername": "ZeeoneOfc",
+	"ownername": "Lord Angga🗿",
 	"botname":"LordUserbot",
 	"thumbnail":"LordUserbot_Thumb.jpg",
 	"fakethumb":"LordUserbot_Thumb.jpg",
